@@ -1,0 +1,13 @@
+{
+  "name": "testApp",
+  "private":true,
+  "version": "1.0.0",
+  "description": "app for testing workspaces",
+  "main": "index.js",
+  "repository": "https://github.globant.com/miguel-ferrer/pruebas.git",
+  "author": "Miguel Ferrer <miguel.ferrer@globant.com>",
+  "license": "MIT",
+  "workspaces":[
+    "packages/*"
+  ]
+}
