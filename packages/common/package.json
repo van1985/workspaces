@@ -2,5 +2,9 @@
   "name": "@testApp/common",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.globant.com/miguel-ferrer/pruebas/tree/master/packages/common",
+    "type": "git"
+  }
 }

@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.globant.com/miguel-ferrer/pruebas/tree/master/packages/web",
+    "type": "git"
+  },
   "dependencies": {
     "@testApp/common":"1.0.0"
   }
