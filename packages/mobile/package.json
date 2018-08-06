@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "https://github.globant.com/miguel-ferrer/pruebas/tree/master/packages/mobile",
+    "url": "https://github.globant.com/miguel-ferrer/pruebas.git",
     "type": "git"
   }
 }
